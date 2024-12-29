@@ -38,9 +38,6 @@ View Random Users: If no search query is entered, a random GitHub user will be d
 
 Save and Manage Candidates: Click the + button to save a user to your candidate list and - to skip and move to the next user.
 
-How to Use (Video)
-[Insert video here: A screencast or tutorial video that demonstrates how to use the application.]
-
 You can create a screen recording using tools like Loom or OBS Studio, then embed the video here by using:
 
 
